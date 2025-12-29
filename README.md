@@ -16,10 +16,10 @@ TaskFlow Pro provides a clean, accessible interface for managing tasks with:
 - Session-based authentication (simulated)
 
 ## Screenshots
-<img width="708" height="784" alt="Screenshot 2025-12-29 163533" src="https://github.com/user-attachments/assets/12adca5b-4e98-4950-94bc-f43a26eab0df" />
-<img width="1010" height="828" alt="Screenshot 2025-12-29 163705" src="https://github.com/user-attachments/assets/d77f4761-c112-4cc0-9540-1325245451d7" />
-<img width="784" height="742" alt="Screenshot 2025-12-29 164113" src="https://github.com/user-attachments/assets/35ff8c46-7f7a-4447-9a24-0e3cf5912092" />
-<img width="698" height="647" alt="Screenshot 2025-12-29 164152" src="https://github.com/user-attachments/assets/d7ec8edc-b632-4b4d-96fd-6d1e188c8e82" />
+<img width="600" height="700" alt="Screenshot 2025-12-29 163533" src="https://github.com/user-attachments/assets/12adca5b-4e98-4950-94bc-f43a26eab0df" />
+<img width="600" height="700" alt="Screenshot 2025-12-29 163705" src="https://github.com/user-attachments/assets/d77f4761-c112-4cc0-9540-1325245451d7" />
+<img width="600" height="700" alt="Screenshot 2025-12-29 164113" src="https://github.com/user-attachments/assets/35ff8c46-7f7a-4447-9a24-0e3cf5912092" />
+<img width="600" height="700" alt="Screenshot 2025-12-29 164152" src="https://github.com/user-attachments/assets/d7ec8edc-b632-4b4d-96fd-6d1e188c8e82" />
 
 ## Tech Stack
 
